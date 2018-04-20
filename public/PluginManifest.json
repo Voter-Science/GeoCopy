@@ -1,10 +1,10 @@
 ﻿{
     // ID must be unique on the gallery
-    "Id": "PluginTemplate",
-    "Name": "An empty plugin",
+    "Id": "GeoCopy",
+    "Name": "Copy Geofencing from one sheet to another",
     "Author" :  "Voter-Science",
-    "Website" :  "https://github.com/Voter-Science/TRC-API-Samples",
-    "Description": "An empty plugin that just gets the initial login and shows basic sheet properties.",        
+    "Website" :  "https://github.com/Voter-Science/GeoCopy",
+    "Description": "An advanced plugin for copying existing geofencing from an existing sheet.",        
     "Version": "1.0.0", // User SemVer
-    "Tags": [ "demo"  ]
+    "Tags": [ "geofence", "manage"  ]
 }
